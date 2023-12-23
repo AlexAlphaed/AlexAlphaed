@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexAlphaed. I'm 19 years old.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html, css and javascript. I have finished the freeCodeCamp Html/Css course and am currently learning javascript through paid courses.
+- 🌱 I’m currently learning html, css and javascript. I have finished the freeCodeCamp Html/Css course and am currently learning javascript through Udemy courses.
 - 📫 How to reach me: Email: alphaedbsns@gmail.com
